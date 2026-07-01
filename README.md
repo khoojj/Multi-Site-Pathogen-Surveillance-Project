@@ -1,6 +1,9 @@
 # Multi-Site-Pathogen-Surveillance-Project
 ### Situation, Action, Outcome
 
+### Project Management · Stakeholder Coordination · Evidence-Based Delivery
+
+End-to-end delivery of a £150,000 multi-site research programme, from proposal to publication, demonstrating team leadership, cross-institutional coordination, and delivery under real-world constraints.
 
 ---
 
