@@ -13,21 +13,24 @@ Led delivery of a £150,000-funded, multi-site pathogen surveillance programme s
 
 ## Action
 
-- Managed the programme end to end. Secured ethics approvals and regulatory sign-off across sites (Malaysia and UK).
-  
-- Scope delivered including 5 field-sampling excursions and 2 off-site community engagment workshops, SOPs for field and laboratory workflows, completed laboratory processing and data analysis, and publication output (6 publications total).
-  
-- Recruited and managed a six-person research team covering field logistics, sample collection, PCR screening, cell culture isolation, and data recording. 
+- Managed the programme end to end across Malaysia and the UK, including planning, execution, monitoring, stakeholder coordination, and delivery.
 
-- Managed internal (ie. resources) and external risks (ie. weather, community acceptance).
+- Defined and delivered the project scope, including 5 field-sampling excursions, 2 off-site community engagement workshops, field and laboratory SOPs, completed laboratory processing, data analysis, and 6 publication outputs.
 
-- Ran weekly progress meetings with the internal team, tracking action points and assigning tasks to keep work moving between activities. 
+- Secured ethics approvals and regulatory sign-off across sites, supporting project governance and compliance requirements.
 
-- Coordinated stakeholders including funders, collaborating institutions, quality managers and government agencies.
+- Recruited and coordinated a six-person research team covering field logistics, sample collection, PCR screening, cell culture isolation, and data recording.
 
-- Built the sample workflow and tracking system that kept fieldwork, laboratory processing, and reporting aligned as conditions changed across sites. 
+- Managed internal and external project risks, including resource availability, weather disruption, fieldwork constraints, and community acceptance.
 
-- Made scope and priority calls when timelines or resources came under pressure.
+- Ran weekly progress meetings with the internal team, tracked action points, assigned responsibilities, and monitored progress across workstreams.
+
+- Coordinated stakeholders including funders, collaborating institutions, quality managers, government agencies, and research teams.
+
+- Built a sample workflow and tracking system to keep fieldwork, laboratory processing, data analysis, and reporting aligned as conditions changed across sites.
+
+- Made scope and priority decisions when timelines, resources, or delivery requirements came under pressure.
+
 
 ## Outcome
 
